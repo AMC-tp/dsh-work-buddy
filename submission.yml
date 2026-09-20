@@ -1,0 +1,9 @@
+# Submission file for github.com/awesome-dsh-plugin/awesome-dsh-plugin
+# Copy to:  data/plugins/AMC-tp__dsh-work-buddy.yml
+# Replace every AMC-tp with your GitHub username before opening the PR.
+url: https://github.com/AMC-tp/dsh-work-buddy
+name: AMC-tp/dsh-work-buddy
+category: fun
+description:
+  en: 'Pixel desk buddy in the bottom-right corner that slacks off while idle, thinks and types while a turn runs, throws confetti when the turn finishes, and tallies completed turns.'
+  zh: '右下角的像素小人：闲时摸鱼，回合进行中思考或敲代码，结束时撒花，并统计累计完成数与当日完成数。'

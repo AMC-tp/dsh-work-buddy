@@ -1,0 +1,51 @@
+{
+  "name": "dsh-work-buddy",
+  "version": "1.0.0",
+  "description": "Pixel desk buddy for the DSH Web GUI: it slacks off when idle, thinks and types while a turn runs, throws confetti when the turn finishes, and tallies completed turns.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "pixel-art",
+    "overlay",
+    "widget",
+    "productivity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMC-tp/dsh-work-buddy.git"
+  },
+  "homepage": "https://github.com/AMC-tp/dsh-work-buddy#readme",
+  "bugs": {
+    "url": "https://github.com/AMC-tp/dsh-work-buddy/issues"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web"
+    }
+  }
+}

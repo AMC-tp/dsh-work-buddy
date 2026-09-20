@@ -1,0 +1,6 @@
+# dsh-work-buddy bundle layer: mounts the desk-buddy plugin. The host half is a
+# deliberate no-op (the buddy is a pure browser surface); the browser half is
+# served from this package's ./client export and rendered by the web shell.
+- insert:
+    - id: dsh-work-buddy
+      name: dsh-work-buddy
