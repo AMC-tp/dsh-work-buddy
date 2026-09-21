@@ -4,5 +4,5 @@ url: https://github.com/AMC-tp/dsh-work-buddy
 name: AMC-tp/dsh-work-buddy
 category: fun
 description:
-  en: 'Pixel desk buddy in the bottom-right corner that keeps a ledger of your turns: it slacks off while idle, thinks and types while a turn runs, raises a hand and a question bubble when a choice is pending, throws confetti when the turn finishes, and reports completed turns plus token spend and estimated USD cost for today, this week, this month and this year.'
-  zh: '右下角的像素小人兼产出账本：闲时摸鱼，回合进行中思考或敲代码，有待你选择时举手并弹出问号气泡，回合结束撒花；统计完成数、Token 消耗与估算费用，覆盖今日、本周、本月与年度。'
+  en: 'A boxy treaded robot in the bottom-right corner that keeps a ledger of your turns: it slacks off while idle, thinks and types while a turn runs, raises a hand and a question bubble when a choice is pending, throws confetti when the turn finishes, and reports completed turns plus token spend and estimated USD cost for today, this week, this month and this year.'
+  zh: '右下角的像素机器人兼产出账本：闲时摸鱼，回合进行中思考或敲代码，有待你选择时举手并弹出问号气泡，回合结束撒花；统计完成数、Token 消耗与估算费用，覆盖今日、本周、本月与年度。'

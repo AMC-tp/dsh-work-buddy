@@ -1,7 +1,7 @@
 {
   "name": "dsh-work-buddy",
-  "version": "1.1.0",
-  "description": "Pixel desk buddy for the DSH Web GUI that keeps a ledger of your turns: slacks off when idle, thinks and types while a turn runs, asks for you when a choice is pending, throws confetti when a turn finishes, and reports completed turns plus token spend and estimated USD cost.",
+  "version": "1.2.0",
+  "description": "Pixel desk buddy for the DSH Web GUI that keeps a ledger of your turns: a boxy treaded robot that slacks off when idle, thinks and types while a turn runs, raises a hand when a choice is pending, throws confetti when the turn finishes, and reports completed turns plus token spend and estimated USD cost.",
   "type": "module",
   "license": "MIT",
   "engines": {
